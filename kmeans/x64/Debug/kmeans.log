@@ -1,0 +1,6 @@
+﻿  kmeans.cpp
+c:\users\edwin\documents\visual studio 2015\projects\kmeans\kmeans\kmeans.cpp(160): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\edwin\documents\visual studio 2015\projects\kmeans\kmeans\kmeans.cpp(166): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\edwin\documents\visual studio 2015\projects\kmeans\kmeans\kmeans.cpp(167): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  kmeans.vcxproj -> c:\users\edwin\documents\visual studio 2015\Projects\kmeans\x64\Debug\kmeans.exe
+  kmeans.vcxproj -> c:\users\edwin\documents\visual studio 2015\Projects\kmeans\x64\Debug\kmeans.pdb (Partial PDB)
